@@ -1,71 +1,49 @@
-# 👋 Hi, I’m Kishore Kumar
+# Kishore Kumar – Full Stack Developer
 
-🚀 **Full Stack Developer** with 4+ years of experience building scalable, high-performance web applications using **React, Next.js, Node.js, and AWS**.
+I’m **Kishore Kumar**, a **Full Stack Developer with over 4 years of professional experience** in building **scalable, high-performance web applications**. I come from a strong **product engineering background**, with hands-on experience across frontend development, backend systems, cloud architecture, and AI-assisted features.
 
-I specialize in **end-to-end product development**, designing clean user interfaces, robust backend APIs, and cloud-ready systems. I enjoy working on real-world problems involving scalability, media processing, analytics, and AI-assisted features.
+My primary expertise is in **React, Next.js, Node.js, and AWS**, where I focus on designing clean user interfaces, building reliable backend APIs, and developing cloud-ready systems that scale with real-world usage. I have consistently worked on end-to-end product development, ensuring code quality, performance, and long-term maintainability.
 
----
+I have a strong background in solving **real-world scalability challenges** and building **AI-assisted web features**. My experience includes working on systems that handle **media processing pipelines**, **real-time analytics dashboards**, and **API-first backend architectures**. Across these systems, I emphasize **security, performance optimization, and scalable design principles** to support growing product demands.
 
-## 🧑‍💻 About Me
+Alongside full stack development, I actively explore **AI integration in modern web applications**, leveraging **Python-based systems** and **Retrieval-Augmented Generation (RAG)** approaches to enhance product capabilities. This combination of product engineering and AI-driven development shapes my approach to building intelligent, future-ready web platforms.
 
-- 💻 Full Stack Developer focused on **React, Next.js, Node.js**
-- ☁️ Experience designing **AWS-based architectures**
-- 🔌 Built **REST and GraphQL APIs** using **Express & Fastify**
-- 📄 Created API documentation using **Swagger / OpenAPI**
-- 📊 Developed **analytical dashboards** for system and media workflows
-- 🎥 Worked on **media streaming & transcription pipelines** using **FFmpeg** and **HLS**
-- 🤖 Hands-on with **Python** for **RAG-based AI systems** and AI cloning research
-- 📈 Strong interest in **product engineering and scalable systems**
+I enjoy collaborating within **product-focused teams**, working closely with designers, product managers, and engineers to transform complex requirements into scalable, user-centric solutions.
 
 ---
 
-## 🛠️ Tech Stack
+## Technical Expertise
 
-**Frontend**
-- React.js
-- Next.js
-- JavaScript / TypeScript
-- HTML5, CSS3
+**Frontend Development**  
+React.js, Next.js, JavaScript, TypeScript, HTML5, CSS3
 
-**Backend**
-- Node.js
-- Express.js
-- Fastify
-- REST APIs
-- GraphQL
+**Backend Development**  
+Node.js, Express.js, Fastify, REST APIs, GraphQL
 
-**Cloud & DevOps**
-- AWS (EC2, S3, Cloud-ready architectures)
-- API Design & Performance Optimization
+**Cloud & Architecture**  
+AWS-based architectures, scalable system design, performance optimization
 
-**Media & Analytics**
-- FFmpeg
-- HLS (HTTP Live Streaming)
-- Media Transcoding
-- Analytics Dashboards
+**Media & Analytics**  
+Media processing pipelines, streaming workflows, analytics-driven platforms
 
-**AI & Data**
-- Python
-- Retrieval-Augmented Generation (RAG)
-- AI Model Integration
+**AI & Data**  
+Python, Retrieval-Augmented Generation (RAG), AI model integration
 
 ---
 
-## 📌 What I’m Working On
+## Professional Focus
 
-- Building **scalable full stack applications**
-- Designing **API-driven backend systems**
-- Improving **media streaming workflows**
-- Exploring **AI-powered features** in web products
-
----
-
-## 📫 Let’s Connect
-
-- 💼 LinkedIn: https://www.linkedin.com/in/kishorekumar-product-engineer
-- 📧 Email: your.email@example.com
-- 🌐 Portfolio: Coming soon
+My work is centered around:
+- Scalable full stack application development  
+- API-driven backend architecture  
+- Cloud-ready system design  
+- AI-powered feature integration in web products  
 
 ---
 
-⭐️ *Open to Full Stack Developer roles at product-focused companies*
+## Let’s Connect
+
+- **LinkedIn:** https://www.linkedin.com/in/kishorekumar-product-engineer  
+- **Email:** kishorekk54321@gmail.com  
+
+⭐️ *Open to Full Stack Developer roles at product-driven companies*
