@@ -43,7 +43,7 @@ My work is centered around:
 
 ## Let’s Connect
 
-- **LinkedIn:** [https://www.linkedin.com/in/kishorekumar-product-engineer ](https://www.linkedin.com/in/kishorekumar-fullstack/) 
+- **LinkedIn:** [https://www.linkedin.com/in/kishorekumar-fullstack ](https://www.linkedin.com/in/kishorekumar-fullstack/) 
 - **Email:** kishorekk54321@gmail.com  
 
 ⭐️ *Open to Full Stack Developer roles at product-driven companies*
