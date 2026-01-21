@@ -43,7 +43,7 @@ My work is centered around:
 
 ## Let’s Connect
 
-- **LinkedIn:**[ [https://www.linkedin.com/in/r-kishore-kumar-85a5b8224 ](https://www.linkedin.com/in/r-kishore-kumar-85a5b8224/) ]
+- **LinkedIn:** [https://www.linkedin.com/in/r-kishore-kumar-85a5b8224 ](https://www.linkedin.com/in/r-kishore-kumar-85a5b8224/)
 - **Email:** kishorekk54321@gmail.com  
 
 ⭐️ *Open to Full Stack Developer roles at product-driven companies*
