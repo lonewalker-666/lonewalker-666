@@ -1,28 +1,71 @@
+# 👋 Hi, I’m Kishore Kumar
 
-### Hi there, I'm Kishore Kumar👋 
+🚀 **Full Stack Developer** with 4+ years of experience building scalable, high-performance web applications using **React, Next.js, Node.js, and AWS**.
 
+I specialize in **end-to-end product development**, designing clean user interfaces, robust backend APIs, and cloud-ready systems. I enjoy working on real-world problems involving scalability, media processing, analytics, and AI-assisted features.
 
-## 💫 I'm a Full-Stack React Developer!
+---
 
-- 🔭 I’m currently working on React
-- 🌱 I’m currently learning React always
-- 👯 I’m looking to collaborate on Open-source Projects
-- 🤔 I’m looking for help with finding a job
-- 💬 Ask me about anything
-- 📫 How to reach me: +918248741300 , kishorekk54321@gmail.com
+## 🧑‍💻 About Me
 
- <a href="https://www.linkedin.com/in/r-kishore-kumar-85a5b8224/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=35></a>
+- 💻 Full Stack Developer focused on **React, Next.js, Node.js**
+- ☁️ Experience designing **AWS-based architectures**
+- 🔌 Built **REST and GraphQL APIs** using **Express & Fastify**
+- 📄 Created API documentation using **Swagger / OpenAPI**
+- 📊 Developed **analytical dashboards** for system and media workflows
+- 🎥 Worked on **media streaming & transcription pipelines** using **FFmpeg** and **HLS**
+- 🤖 Hands-on with **Python** for **RAG-based AI systems** and AI cloning research
+- 📈 Strong interest in **product engineering and scalable systems**
 
+---
 
+## 🛠️ Tech Stack
 
+**Frontend**
+- React.js
+- Next.js
+- JavaScript / TypeScript
+- HTML5, CSS3
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lonewalker-666&" alt="Lone Walker" /></p>
+**Backend**
+- Node.js
+- Express.js
+- Fastify
+- REST APIs
+- GraphQL
 
+**Cloud & DevOps**
+- AWS (EC2, S3, Cloud-ready architectures)
+- API Design & Performance Optimization
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lonewalker-666)](https://github.com/anuraghazra/github-readme-stats)
+**Media & Analytics**
+- FFmpeg
+- HLS (HTTP Live Streaming)
+- Media Transcoding
+- Analytics Dashboards
 
-<div align="center">
+**AI & Data**
+- Python
+- Retrieval-Augmented Generation (RAG)
+- AI Model Integration
 
-### Show some ❤️ by starring some of the repositories!
+---
 
-</div>
+## 📌 What I’m Working On
+
+- Building **scalable full stack applications**
+- Designing **API-driven backend systems**
+- Improving **media streaming workflows**
+- Exploring **AI-powered features** in web products
+
+---
+
+## 📫 Let’s Connect
+
+- 💼 LinkedIn: https://www.linkedin.com/in/kishorekumar-product-engineer
+- 📧 Email: your.email@example.com
+- 🌐 Portfolio: Coming soon
+
+---
+
+⭐️ *Open to Full Stack Developer roles at product-focused companies*
