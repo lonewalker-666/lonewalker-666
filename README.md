@@ -1,224 +1,742 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Kishore%20Kumar%20R&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Node.js%20%C2%B7%20React%20%C2%B7%20Microservices%20%C2%B7%20Fintech&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://i.pinimg.com/1200x/3b/f5/6b/3bf56b8e57d26432bc2cc98ba29d5d4d.jpg" width="100%" alt="Kishore Kumar R — One Piece inspired developer portfolio"/>
+
+<br><br>
+
+# KISHORE KUMAR R
+
+### FULL-STACK DEVELOPER · AI · FINTECH · CLOUD
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2800&pause=900&color=F5C16C&center=true&vCenter=true&width=780&lines=4%2B+Years+Building+Production+Systems;Full-Stack+%7C+AI+%7C+Fintech;Node.js+%7C+React+%7C+AWS;RAG+%7C+LLMs+%7C+AI+Agents;Building+Systems+That+Survive+Production" alt="Kishore Kumar R"/>
+
+<br>
 
 <a href="https://github.com/lonewalker-666">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Full-Stack+Developer+%7C+4%2B+Years+Experience;Node.js+%C2%B7+React+%C2%B7+Microservices+%C2%B7+Fintech;Building+Idempotent+Payment+Systems+at+Scale;Currently+Freelancing+%7C+Open+to+Opportunities" alt="Typing SVG" />
+<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=F5C16C"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=lonewalker-666&label=Profile+Views&color=70a5fd&style=flat-square" alt="profile views"/>
+<a href="https://linkedin.com/in/kishore-kumar-r-85a5b8224/">
+<img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=F5C16C"/>
+</a>
+
+<a href="mailto:kishorekk54321@gmail.com">
+<img src="https://img.shields.io/badge/CONTACT-111111?style=for-the-badge&logo=gmail&logoColor=F5C16C"/>
+</a>
+
+<br><br>
+
+`CHENNAI, INDIA` · `FULL-STACK` · `AI` · `FINTECH`
 
 </div>
 
-<br/>
-
-## 👨‍💻 About Me
-
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
-```javascript
-const kishoreKumar = {
-    name: "Kishore Kumar R",
-    location: "Chennai, India",
-    degree: "B.C.A. — Apollo Arts and Science College (Madras University)",
-    role: "Full-Stack Developer",
-    experience: "4+ years",
-
-    stack: {
-        languages: ["JavaScript (ES6+)", "TypeScript", "Python"],
-        frontend: ["React", "Next.js", "Redux", "React-Query"],
-        backend: ["Node.js", "Express", "Fastify", "Microservices"],
-        databases: ["PostgreSQL", "MySQL", "MongoDB", "Redis"],
-        cloud: ["AWS (EC2, S3, RDS, Lambda, MediaConvert, SQS)", "Cloudflare", "NGINX"],
-        fintech: ["Razorpay", "Stripe", "UPI", "BBPS", "AEPS", "NPCI"],
-    },
-
-    currentlyLearning: ["RAG pipelines", "LLM-based agents", "System design at scale"],
-
-    funFact: "Migrated a video pipeline from FFmpeg to AWS Media Services " +
-              "and cut publish time by ~80% 🚀",
-
-    motto: function () {
-        return "Ship idempotent systems that don't wake you up at 3AM.";
-    },
-};
-
-console.log(kishoreKumar.motto());
-```
-
-<br clear="right"/>
-
-## 🛠️ Tech Stack
-
-**Languages**
-<p> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /> </p>
-
-**Frameworks & Libraries**
-<p> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white" /> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" /> </p>
-
-**Cloud & DevOps**
-<p> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white" /> <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=flat-square&logo=amazons3&logoColor=white" /> <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" /> <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" /> <img src="https://img.shields.io/badge/CodePipeline-FF9900?style=flat-square&logo=amazonaws&logoColor=white" /> </p>
-
-**Databases**
-<p> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" /> </p>
-
-**Tools & Fintech**
-<p> <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" /> <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white" /> <img src="https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=black" /> <img src="https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=white" /> <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" /> <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /> </p>
-
-<br/>
-
-## 📊 GitHub Stats
+---
 
 <div align="center">
+
+# ⚓ THE DEVELOPER
+
+### SOFTWARE ENGINEERING WITH A CAPTAIN'S MINDSET
+
+</div>
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+## WHO I AM
+
+I'm **Kishore Kumar R**, a Full-Stack Developer with **4+ years of production experience**.
+
+I work primarily across:
+
+- backend architecture
+- microservices
+- payment infrastructure
+- AWS systems
+- frontend applications
+- AI / LLM integrations
+
+I enjoy taking complicated business workflows and turning them into systems that are:
+
+**reliable · idempotent · scalable · observable**
+
+<br>
+
+### ENGINEERING PHILOSOPHY
+
+> Ship systems that don't wake you up at 3AM.
+
+</td>
+
+<td width="40%" align="center" valign="middle">
+
+### CURRENT MODE
+
+`BUILD`
+
+↓
+
+`SHIP`
+
+↓
+
+`OBSERVE`
+
+↓
+
+`IMPROVE`
+
+<br>
+
+### CURRENT QUEST
+
+`RAG`
+
+`LLM AGENTS`
+
+`VOICE AI`
+
+`VISION AI`
+
+`SYSTEM DESIGN`
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+# 🏴‍☠️ SELECTED ADVENTURES
+
+### FOUR PROBLEMS. FOUR SYSTEMS. REAL PRODUCTION IMPACT.
+
+</div>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## 🎥 VIDEO PIPELINE
+
+### FFmpeg → AWS Media Services
+
+**Stack**
+
+`Node.js` · `S3` · `MediaConvert` · `Lambda` · `SQS`
+
+Migrated a production video-processing pipeline to AWS Media Services.
+
+### ~80% FASTER
+
+Average video publishing time.
+
+---
+
+## 💳 PAYMENT MIGRATION
+
+### CCAvenue → Razorpay
+
+**Stack**
+
+`Node.js` · `Prisma` · `PostgreSQL` · `Razorpay`
+
+Led migration of production payment records.
+
+### 10,000+
+
+Transactions migrated.
+
+### ZERO
+
+Production data loss.
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🤖 AI / OCR
+
+### BUBBL CARD SCANNER
+
+**Stack**
+
+`Python` · `Flask` · `Ollama` · `Llama 3.1`
+
+Built an AI-assisted business-card scanning pipeline with structured extraction.
+
+### AI STACK
+
+`OLLAMA`
+
+`LLAMA 3.1`
+
+`MISTRAL`
+
+`QWEN`
+
+`GPT-OSS:20B`
+
+`WHISPER`
+
+---
+
+## 🎁 MULTI-TENANT LOYALTY
+
+### WHITE-LABEL INFRASTRUCTURE
+
+**Stack**
+
+`Node.js` · `PostgreSQL` · `Redis` · `RBAC`
+
+Built tenant-isolated loyalty infrastructure with reward tiers, menus and access control.
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+# 🧭 ENGINEERING MAP
+
+### THE AREAS I SPEND MOST OF MY TIME IN
+
+</div>
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+## ⚙️
+
+### BACKEND
+
+Node.js
+
+Express
+
+Fastify
+
+Microservices
+
+REST APIs
+
+WebSockets
+
+</td>
+
+<td align="center" width="25%">
+
+## 🎨
+
+### FRONTEND
+
+React
+
+Next.js
+
+Redux
+
+React Query
+
+React Native
+
+Flutter
+
+</td>
+
+<td align="center" width="25%">
+
+## ☁️
+
+### CLOUD
+
+AWS
+
+EC2
+
+S3
+
+RDS
+
+Lambda
+
+SQS
+
+MediaConvert
+
+</td>
+
+<td align="center" width="25%">
+
+## 🧠
+
+### AI
+
+RAG
+
+Mistral
+
+Qwen
+
+Llama
+
+GPT-OSS
+
+Whisper
+
+Ollama
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 💰 FINTECH ARC
+
+<div align="center">
+
+### BUILDING PAYMENT FLOWS WHERE FAILURE IS NOT AN OPTION
+
+</div>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### PAYMENT NETWORK
+
+`RAZORPAY`
+
+`STRIPE`
+
+`UPI`
+
+`BBPS`
+
+`AEPS`
+
+`DMT`
+
+`NPCI`
+
+</td>
+
+<td width="50%" valign="top">
+
+### RELIABILITY LAYER
+
+`IDEMPOTENCY`
+
+`RETRY`
+
+`ROLLBACK`
+
+`RECONCILIATION`
+
+`ASYNC SETTLEMENT`
+
+`AUDIT LOGGING`
+
+</td>
+
+</tr>
+</table>
+
+<div align="center">
+
+| SIGNAL | IMPACT |
+|---|---:|
+| Daily payment volume | **500+ transactions** |
+| Migrated payment records | **10,000+** |
+| Partner banks | **3** |
+| Reconciliation effort | **~70% reduction** |
+
+</div>
+
+---
+
+<div align="center">
+
+# 🧠 AI LAB
+
+### FROM MODEL EXPERIMENTS TO USEFUL SYSTEMS
+
+</div>
+
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+### 🔎 RETRIEVAL
+
+`RAG`
+
+`VECTOR SEARCH`
+
+`CONTEXT`
+
+`RETRIEVAL PIPELINES`
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🤖 MODELS
+
+`MISTRAL`
+
+`QWEN`
+
+`LLAMA 3.1`
+
+`GPT-OSS:20B`
+
+`OLLAMA`
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🎙️ MULTIMODAL
+
+`WHISPER`
+
+`VOICE AI`
+
+`VISION AI`
+
+`OCR`
+
+`AGENTS`
+
+</td>
+
+</tr>
+</table>
+
+### CURRENT AI DIRECTION
+
+I'm exploring:
+
+**RAG pipelines · LLM-based agents · voice AI · vision AI · persona systems · AI teacher systems · local LLM inference**
+
+---
+
+<div align="center">
+
+# 🗺️ PROJECT ARCHIVE
+
+</div>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🎓 MYNERVA
+
+**E-Learning Platform**
+
+Microservices architecture serving thousands of learners.
+
+`Node.js`
+
+`AWS`
+
+`PostgreSQL`
+
+`Redis`
+
+`MediaConvert`
+
+**Highlight**
+
+~80% faster video publishing.
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🏦 RIGHT 2 PAY
+
+**Fintech Platform**
+
+Low-bandwidth payment platform.
+
+`Node.js`
+
+`AEPS`
+
+`UPI`
+
+`BBPS`
+
+`NPCI`
+
+**Highlight**
+
+500+ daily transactions.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🎁 LOYALTY PLATFORM
+
+**Multi-Tenant SaaS**
+
+White-label loyalty infrastructure.
+
+`Node.js`
+
+`PostgreSQL`
+
+`Redis`
+
+`RBAC`
+
+**Highlight**
+
+Strict tenant isolation.
+
+</td>
+
+<td width="50%" valign="top">
+
+### 👁️ BUBBL OCR
+
+**AI Document Processing**
+
+Business-card scanning and structured extraction.
+
+`Python`
+
+`Flask`
+
+`Ollama`
+
+`Llama 3.1`
+
+**Highlight**
+
+AI-assisted OCR workflow.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🤖 GPT CLONE
+
+**Local AI**
+
+Conversational AI experimentation.
+
+`React`
+
+`TypeScript`
+
+`Ollama`
+
+`GPT-OSS:20B`
+
+**Highlight**
+
+Local model experimentation.
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎓 AI TEACHER RESEARCH
+
+**Agentic Learning**
+
+Research into AI-powered educational systems.
+
+`RAG`
+
+`LLM APIs`
+
+`Python`
+
+**Highlight**
+
+AI teacher + persona exploration.
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+# ⚔️ VOYAGE LOG
+
+</div>
+
+<details>
+<summary>🟡 <b>MYNERVA — SENIOR SOFTWARE ENGINEER</b> · JUL 2023 — APR 2026</summary>
+
+<br>
+
+**Node.js · AWS · Razorpay · PostgreSQL · Redis · Python · Ollama**
+
+- Owned end-to-end development of a microservices-based e-learning platform serving thousands of learners.
+- Migrated FFmpeg video processing to AWS Media Services.
+- Reduced average video publishing time by **~80%**.
+- Led CCAvenue → Razorpay migration across **10,000+ transaction records with zero production data loss**.
+- Built multi-tenant white-label loyalty infrastructure.
+- Designed analytics APIs for revenue, conversion and engagement.
+- Built OCR business-card scanning using Python, Flask, Ollama and Llama 3.1.
+- Led system design and code reviews across 5+ feature streams.
+
+</details>
+
+<details>
+<summary>🔵 <b>RIGHT 2 PAY — SOFTWARE DEVELOPER</b> · JAN 2023 — AUG 2023</summary>
+
+<br>
+
+**Node.js · AEPS · UPI · BBPS · NPCI · Python**
+
+- Built the payment stack for a low-bandwidth fintech PWA.
+- Supported **500+ daily transactions**.
+- Designed idempotent APIs with retry, rollback and failure recovery.
+- Built biometric AEPS authentication integrations.
+- Developed DMT services across **3 partner banks**.
+- Implemented UPI and BBPS workflows.
+- Reduced reconciliation overhead by **~70%**.
+
+</details>
+
+<details>
+<summary>🟢 <b>FR8 — SOFTWARE DEVELOPER</b> · MAR 2022 — NOV 2022</summary>
+
+<br>
+
+**React · React Native · RBAC · Logistics**
+
+- Built production systems used daily by **100+ operations staff**.
+- Developed order-matching and fleet-management dashboards.
+- Built React and React Native driver workflows.
+- Replaced spreadsheet-driven operations with internal systems.
+- Implemented role-based access control.
+
+</details>
+
+<details>
+<summary>🟣 <b>FREELANCER — INDEPENDENT ENGINEER</b> · MAY 2026 — PRESENT</summary>
+
+<br>
+
+**Fastify · Prisma · Supabase · Flutter · React Native**
+
+- Built a college application platform with integrated payments.
+- Developed digital-signage TV applications and campaign dashboards.
+- Built an LMS SaaS platform covering clients, staff, payments, payroll and attendance.
+
+</details>
+
+---
+
+<div align="center">
+
+# 📊 GITHUB LOGBOOK
 
 <a href="https://github.com/lonewalker-666">
-
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=lonewalker-666&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" />
-
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=lonewalker-666&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=111111&title_color=F5C16C&icon_color=F5C16C&text_color=F1F1F1&border_radius=12"/>
 </a>
 
 <a href="https://github.com/lonewalker-666">
-
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=lonewalker-666&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" />
-
+<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=lonewalker-666&layout=compact&theme=radical&hide_border=true&bg_color=111111&title_color=F5C16C&text_color=F1F1F1&langs_count=8&border_radius=12"/>
 </a>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=lonewalker-666&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" width="70%" />
+<br><br>
 
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lonewalker-666&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lonewalker-666&theme=react-dark&bg_color=111111&color=F5C16C&line=F5C16C&point=FFFFFF&area=true&hide_border=true" width="95%"/>
 
 </div>
 
-<br/>
-
-## 🏆 Trophy Wall
+---
 
 <div align="center">
 
-<img src="https://github-trophies.devomb.com/?username=lonewalker-666&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
+# 🎯 CURRENT QUEST
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2500&pause=800&color=F5C16C&center=true&vCenter=true&width=720&lines=RAG+PIPELINES;LLM+AGENTS;VOICE+AI;VISION+AI;SYSTEM+DESIGN;PRODUCTION+AI" alt="Current focus"/>
+
+<br><br>
+
+`BUILD` · `LEARN` · `EXPERIMENT` · `SHIP`
 
 </div>
 
-
-<br/>
-## 💼 Work Experience
-
-<details>
-<summary><b>🧑‍💻 Freelancer — Independent · Remote</b> &nbsp;|&nbsp; May 2026 – Present</summary>
-<br/>
-
-> `Fastify` `Prisma` `Supabase` `Flutter` `React Native` `Payments`
-
-- Built a **college application submission platform** with an integrated payments backend using Fastify, Prisma, Supabase, and Flutter.
-- Developed a **TV app for digital signage** in malls and restaurants displaying ads for ad agency HilightMedia, plus an admin dashboard to control and monitor campaigns.
-- Built an **LMS SaaS dashboard** for music academies, tuition centres, and karate classes to manage clients, staff, payments, payroll, and attendance.
-
-</details>
-
-<details>
-<summary><b>🚀 Senior Software Engineer — Mynerva · Chennai, India</b> &nbsp;|&nbsp; Jul 2023 – Apr 2026</summary>
-<br/>
-
-> `Node.js` `AWS MediaConvert` `S3` `Lambda` `SQS` `Razorpay` `PostgreSQL` `Redis` `RBAC` `Python` `Flask` `Ollama`
-
-- Owned end-to-end development of a **microservices-based e-learning platform** serving thousands of learners — course creation, creator onboarding, monetisation, and real-time communication.
-- Migrated the video pipeline from **FFmpeg to AWS Media Services**, eliminating CPU saturation, reducing average publish time by **~80%**, and clearing persistent queue backlogs.
-- Led the **CCAvenue → Razorpay** payment migration — redesigned checkout flows and data models with **zero data loss across 10,000+ transaction records**.
-- Architected a **multi-tenant, white-labeled loyalty platform** with strict tenant isolation, configurable reward tiers, and access control, enabling new enterprise onboarding without code changes.
-- Designed canonical data models & APIs powering **real-time analytics dashboards**, replacing manual reporting for the business team.
-- Built an **OCR feature** for paper business card scanning (Bubbl, NFC digital business card product) using Python, Flask, Ollama, and Llama 3.1 8B Instruct, hosted on Cloudflare.
-- Provided technical leadership via design reviews and code reviews across **5+ feature streams**.
-
-</details>
-
-<details>
-<summary><b>💳 Software Developer — Right 2 Pay · Remote</b> &nbsp;|&nbsp; Jan 2023 – Aug 2023</summary>
-<br/>
-
-> `Node.js` `AEPS` `UPI` `BBPS` `NPCI` `Flask` `Python` `Fintech PWA`
-
-- Sole full-stack developer for a **fintech PWA** built for low-bandwidth environments, handling peak loads of **500+ daily transactions**.
-- Designed **idempotent payment APIs** with retry logic, reconciliation, and rollback handling, fully compliant with NPCI/AEPS constraints.
-- Integrated **biometric authentication** for AEPS using Mantra, Morpho, and Precision fingerprint devices with encrypted device-level validation.
-- Built complete **DMT services** (beneficiary onboarding, verification, NEFT transfers) across **3 partner bank integrations**.
-- Implemented **UPI and BBPS** flows with audit logging and async status polling, cutting manual reconciliation overhead by **~70%**.
-- Automated compliance/agreement document generation, cutting onboarding paperwork from **~30 minutes to under 2 minutes** per agent.
-
-</details>
-
-<details>
-<summary><b>🚛 Software Developer — FR8 (Logistics Platform) · Chennai, India</b> &nbsp;|&nbsp; Mar 2022 – Nov 2022</summary>
-<br/>
-
-> `React` `React Native` `RBAC` `Dashboards` `Internal Tools`
-
-- Built production-grade internal systems for a B2B logistics platform — order-matching, fleet management, and HR tooling used daily by **100+ operations staff**.
-- Developed **order-matching and truck-management dashboards** handling assignment workflows for hundreds of daily load requests.
-- Built **React web dashboards and React Native mobile apps** supporting live driver workflows — route confirmation, load acceptance, status updates.
-- Delivered internal **HR & ops tools** (attendance, leave, resignation, salary-advance) replacing manual spreadsheet processes.
-
-</details>
-
-<br/>
-
-## 🚀 Featured Projects
+---
 
 <div align="center">
 
-| Project | Stack | Highlights |
-|---|---|---|
-| **[Mynerva Video Pipeline](https://github.com/lonewalker-666)** | Node.js · AWS MediaConvert · S3 · Lambda · SQS | Migrated FFmpeg → AWS Media Services, eliminating CPU saturation & **~80% faster** video publish times |
-| **[AEPS Biometric Payment Gateway](https://github.com/lonewalker-666)** | Node.js · Express · NPCI APIs · Mantra/Morpho SDK · Python · PostgreSQL | Fingerprint-authenticated AEPS/UPI/BBPS payments handling **500+ daily transactions** with full reconciliation |
-| **[Razorpay Checkout Migration](https://github.com/lonewalker-666)** | Node.js · Razorpay SDK · PostgreSQL · Prisma | CCAvenue → Razorpay cutover with **zero data loss** across **10,000+** live transaction records |
+# 🎓 ORIGIN
+
+### B.C.A.
+
+**Apollo Arts and Science College**
+
+Madras University
+
+`2018 — 2021`
 
 </div>
 
-<br/>
-
-## 🏅 Achievements
+---
 
 <div align="center">
 
-| | Achievement | Details |
-|---|---|---|
-| 🎥 | Video Pipeline Overhaul | Migrated FFmpeg → AWS Media Services — **~80% reduction** in average publish time |
-| 💰 | Zero-Loss Payment Migration | Cut over CCAvenue → Razorpay across **10,000+** live transactions with **zero data loss** |
-| ⚡ | Reconciliation Automation | Reduced manual reconciliation overhead by **~70%** via UPI/BBPS audit logging & async polling |
-| 📝 | Onboarding Automation | Cut agent onboarding paperwork from **~30 min to under 2 min** using Python automation |
-| 🏦 | Multi-Bank DMT Integration | Delivered DMT beneficiary onboarding & NEFT transfers across **3 partner banks** |
-| 🧑‍🤝‍🧑 | Scale Impact | Built internal tooling relied on daily by **100+ operations staff** at FR8 |
+<img src="https://i.pinimg.com/1200x/8b/db/72/8bdb72576a455de482feee87fe030381.jpg" width="100%" alt="One Piece inspired footer"/>
+
+<br><br>
+
+# 🏴‍☠️ SET SAIL.
+
+### BUILD SOMETHING WORTH CROSSING THE GRAND LINE FOR.
+
+<br>
+
+<a href="mailto:kishorekk54321@gmail.com">
+<img src="https://img.shields.io/badge/DEN_DEN_MUSHI-F5C16C?style=for-the-badge&logo=gmail&logoColor=111111"/>
+</a>
+
+<a href="https://github.com/lonewalker-666">
+<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=F5C16C"/>
+</a>
+
+<a href="https://linkedin.com/in/kishore-kumar-r-85a5b8224/">
+<img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=F5C16C"/>
+</a>
+
+<br><br>
+
+<code>CHENNAI • INDIA • FULL-STACK • AI • FINTECH</code>
 
 </div>
-
-<br/>
-
-## 🎓 Education
-
-<div align="center">
-
-| Degree | Institution | Year | Score |
-|---|---|---|---|
-| Bachelor of Computer Application (BCA) | Apollo Arts and Science College, Madras University | 2018 – 2021 | — |
-
-</div>
-
-## 📚 Currently Learning
-
-```text
-🧠 RAG Pipelines        → Retrieval strategies, vector stores, LLM grounding
-🤖 LLM Agents           → Persona layers, voice/vision integration, agentic workflows
-🏗️  System Design        → Large-scale distributed systems, event-driven architecture
-```
-
-<br/>
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="mailto:kishorekk54321@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/kishore-kumar-r-85a5b8224/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/lonewalker-666"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
