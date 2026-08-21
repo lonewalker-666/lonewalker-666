@@ -83,7 +83,8 @@ console.log(kishoreKumar.motto());
 
 </a>
 
-<img src="https://streak-stats.demolab.com?user=lonewalker-666&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" width="70%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=lonewalker-666&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" width="70%" />
+
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=lonewalker-666&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="95%" />
 
